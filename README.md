@@ -1,7 +1,12 @@
-# Grab Passwords
-Steal saved Wi-Fi passwords of windows OS in one click
+# Steal Wi-Fi Passwords
+Steal saved Wi-Fi passwords of Windows OS in one click.
 
-# Usage:
-1. Copy the clickme.exe into a Removable drive(Pendrive).
-2. Run clickme.exe and wait for a while.
-3. A file (passwords.txt) will be created in the same Removable drive which contains the passwords.
+# What does this do?
+Creates a file (passwords.txt) in the directory from which clickme.exe runned.
+passwords.txt contains all the saved Wi-Fi passwords.
+
+# Usage 
+I recommend copying clickme.exe into a pendrive and run it.
+This will create passwords.txt in the pendrive.
+Once this is done you can take out the pendrive and run away :P
+
