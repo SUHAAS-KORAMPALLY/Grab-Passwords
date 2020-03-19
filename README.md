@@ -1,3 +1,7 @@
+# Author: github.com/SUHAAS-KORAMPALLY/
+
+# Give this a star if you like it...
+
 # Steal Wi-Fi Passwords
 Steal saved Wi-Fi passwords of Windows OS in one click.
 
