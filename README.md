@@ -2,7 +2,7 @@
 Steal saved Wi-Fi passwords of Windows OS in one click.
 
 # What does this do?
-Creates a file (passwords.txt) in the directory from which clickme.exe runned.
+Creates a file (passwords.txt) in the directory from which clickme.exe is runned.
 passwords.txt contains all the saved Wi-Fi passwords.
 
 # Usage 
